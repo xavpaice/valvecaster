@@ -1,0 +1,9 @@
+ERC report (Sat 21 Dec 2013 21:44:22 NZDT)
+
+***** Sheet /
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (110.490 mm,55.880 mm): Pin 1 (power_in) of component #PWR07 is not driven (Net 5).
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (218.440 mm,121.920 mm): Pin 1 (power_in) of component #PWR01 is not driven (Net 3).
+
+ >> Errors ERC: 0

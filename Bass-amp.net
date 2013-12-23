@@ -1,0 +1,116 @@
+# EESchema Netlist Version 1.1 created  Sun 22 Dec 2013 22:49:31 NZDT
+(
+ ( /52B540AC C2 C1 47nF
+  ( 1 N-000003 )
+  ( 2 N-000010 )
+ )
+ ( /52B54091 C2 C2 47nF
+  ( 1 N-000009 )
+  ( 2 N-000008 )
+ )
+ ( /52B540CA R3 C3 1uF
+  ( 1 N-000011 )
+  ( 2 N-000007 )
+ )
+ ( /52B540C1 C2 C4 10nF
+  ( 1 N-000007 )
+  ( 2 GND )
+ )
+ ( /52B6ACE1 C2 P1 CONN_2
+  ( 1 N-000003 )
+  ( 2 GND )
+ )
+ ( /52B6AD16 C2 P2 CONN_2
+  ( 1 N-000005 )
+  ( 2 GND )
+ )
+ ( /52B5402A R3 R1 1M
+  ( 1 N-000010 )
+  ( 2 GND )
+ )
+ ( /52B54019 R3 R2 220K
+  ( 1 +12V )
+  ( 2 N-000009 )
+ )
+ ( /52B5403B R3 R3 470K
+  ( 1 N-000008 )
+  ( 2 GND )
+ )
+ ( /52B54022 R3 R4 100K
+  ( 1 +12V )
+  ( 2 N-000011 )
+ )
+ ( /52B6A73D PIN_ARRAY_3X1 RV1 B50K
+  ( 1 N-000006 )
+  ( 2 GND )
+  ( 3 GND )
+ )
+ ( /52B5416F RV2X4 RV2 A100K
+  ( 1 N-000007 )
+  ( 2 N-000005 )
+  ( 3 GND )
+ )
+ ( /52B6A6B0 VALVE-NOVAL_P U1 ECC81
+  ( 1 N-000009 )
+  ( 2 N-000010 )
+  ( 3 GND )
+  ( 4 GND )
+  ( 5 +12V )
+  ( 6 N-000011 )
+  ( 7 N-000008 )
+  ( 8 N-000006 )
+  ( 9 ? )
+ )
+)
+*
+{ Allowed footprints by component:
+$component C1
+ SM*
+ C?
+ C1-1
+$endlist
+$component C2
+ SM*
+ C?
+ C1-1
+$endlist
+$component C3
+ SM*
+ C?
+ C1-1
+$endlist
+$component C4
+ SM*
+ C?
+ C1-1
+$endlist
+$component R1
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R2
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R3
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R4
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$endfootprintlist
+}

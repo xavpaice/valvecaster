@@ -1,0 +1,35 @@
+eeschema (2012-apr-16-27)-stable  >> Creation date: Sat 21 Dec 2013 21:45:20 NZDT
+
+#Cmp ( order = Reference )
+| C1         47nF        
+| C2         47nF        
+| C3         1uF         
+| C4         C           
+| IN1        CONN_1      
+| OUT1       CONN_1      
+| R1         1M          
+| R2         220K        
+| R3         470K        
+| R4         100K        
+| U1         ECC81       
+| VR1        B50K        
+| VR2        A100K       
+#End Cmp
+
+#Cmp ( order = Value )
+| 100K         R4        
+| 1M           R1        
+| 1uF          C3        
+| 220K         R2        
+| 470K         R3        
+| 47nF         C1        
+| 47nF         C2        
+| A100K        VR2       
+| B50K         VR1       
+| C            C4        
+| CONN_1       IN1       
+| CONN_1       OUT1      
+| ECC81        U1        
+#End Cmp
+
+#End List

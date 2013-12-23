@@ -1,0 +1,94 @@
+Cmp-Mod V01 Created by CvPcb (2012-apr-16-27)-stable date = Sun 22 Dec 2013 22:49:31 NZDT
+
+BeginCmp
+TimeStamp = /52B540AC;
+Reference = C1;
+ValeurCmp = 47nF;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /52B54091;
+Reference = C2;
+ValeurCmp = 47nF;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /52B540CA;
+Reference = C3;
+ValeurCmp = 1uF;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /52B540C1;
+Reference = C4;
+ValeurCmp = 10nF;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /52B6ACE1;
+Reference = P1;
+ValeurCmp = CONN_2;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /52B6AD16;
+Reference = P2;
+ValeurCmp = CONN_2;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /52B5402A;
+Reference = R1;
+ValeurCmp = 1M;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /52B54019;
+Reference = R2;
+ValeurCmp = 220K;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /52B5403B;
+Reference = R3;
+ValeurCmp = 470K;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /52B54022;
+Reference = R4;
+ValeurCmp = 100K;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /52B6A73D;
+Reference = RV1;
+ValeurCmp = B50K;
+IdModule  = PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /52B5416F;
+Reference = RV2;
+ValeurCmp = A100K;
+IdModule  = RV2X4;
+EndCmp
+
+BeginCmp
+TimeStamp = /52B6A6B0;
+Reference = U1;
+ValeurCmp = ECC81;
+IdModule  = VALVE-NOVAL_P;
+EndCmp
+
+EndListe
