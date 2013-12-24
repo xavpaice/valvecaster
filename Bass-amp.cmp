@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2012-apr-16-27)-stable date = Sun 22 Dec 2013 22:49:31 NZDT
+Cmp-Mod V01 Created by CvPcb (2012-apr-16-27)-stable date = Tue 24 Dec 2013 22:37:59 NZDT
 
 BeginCmp
 TimeStamp = /52B540AC;
@@ -30,16 +30,16 @@ EndCmp
 
 BeginCmp
 TimeStamp = /52B6ACE1;
-Reference = P1;
+Reference = IN1;
 ValeurCmp = CONN_2;
-IdModule  = C2;
+IdModule  = JACK_ALIM;
 EndCmp
 
 BeginCmp
 TimeStamp = /52B6AD16;
-Reference = P2;
+Reference = OUT1;
 ValeurCmp = CONN_2;
-IdModule  = C2;
+IdModule  = JACK_ALIM;
 EndCmp
 
 BeginCmp
@@ -87,7 +87,7 @@ EndCmp
 BeginCmp
 TimeStamp = /52B6A6B0;
 Reference = U1;
-ValeurCmp = ECC81;
+ValeurCmp = ECC82;
 IdModule  = VALVE-NOVAL_P;
 EndCmp
 
